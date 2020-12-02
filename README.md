@@ -18,6 +18,8 @@
 </p>
 
 ## Usage
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJ-Vin%2Fbootswatch.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJ-Vin%2Fbootswatch?ref=badge_shield)
+
 
 There are a few different ways you can integrate Bootswatch into your project.
 
@@ -160,3 +162,6 @@ Thomas Park
 Copyright 2014-2020 Thomas Park
 
 Code released under the MIT License.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJ-Vin%2Fbootswatch.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJ-Vin%2Fbootswatch?ref=badge_large)
